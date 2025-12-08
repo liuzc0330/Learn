@@ -1,3 +1,4 @@
+//github多人协作
 #include<stdio.h>
 double chufa(double a,double b)
 {
@@ -17,6 +18,4 @@ int main()
        printf("%.2f/%.2f=%.2f\n",a,b,chufa(a,b));
        return 0;
 }
-
-
 
