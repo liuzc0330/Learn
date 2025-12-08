@@ -4,5 +4,10 @@ double chufa(double a,double b){
 }
 int main()
 {
+void subtraction(int a,int b)
+{
+  int t=a-b;
+  return t;
+}
 
 }
